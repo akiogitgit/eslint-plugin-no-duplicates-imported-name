@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-duplicates-imported-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint rule to disallow duplicate imported names",
   "main": "index.js",
   "scripts": {
