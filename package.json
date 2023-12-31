@@ -1,0 +1,33 @@
+{
+  "name": "eslint-plugin-no-duplicates-imported-name",
+  "version": "1.0.0",
+  "description": "ESLint rule to disallow duplicate imported names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akiogitgit/eslint-plugin-no-duplicates-imported-name.git"
+  },
+  "files": [
+    "*.md",
+    "LICENSE",
+    "index.js"
+  ],
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "import",
+    "duplicate",
+    "named",
+    "modules",
+    "autofix"
+  ],
+  "author": "akiogitgit",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/experimental-utils": "^5.62.0"
+  }
+}
